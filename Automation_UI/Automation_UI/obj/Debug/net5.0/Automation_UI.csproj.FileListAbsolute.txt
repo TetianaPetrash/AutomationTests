@@ -1,0 +1,12 @@
+D:\VS2019\Automation_UI\Automation_UI\obj\Debug\net5.0\Automation_UI.csproj.AssemblyReference.cache
+D:\VS2019\Automation_UI\Automation_UI\obj\Debug\net5.0\Automation_UI.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS2019\Automation_UI\Automation_UI\obj\Debug\net5.0\Automation_UI.AssemblyInfoInputs.cache
+D:\VS2019\Automation_UI\Automation_UI\obj\Debug\net5.0\Automation_UI.AssemblyInfo.cs
+D:\VS2019\Automation_UI\Automation_UI\obj\Debug\net5.0\Automation_UI.csproj.CoreCompileInputs.cache
+D:\VS2019\Automation_UI\Automation_UI\bin\Debug\net5.0\Automation_UI.deps.json
+D:\VS2019\Automation_UI\Automation_UI\bin\Debug\net5.0\Automation_UI.dll
+D:\VS2019\Automation_UI\Automation_UI\bin\Debug\net5.0\ref\Automation_UI.dll
+D:\VS2019\Automation_UI\Automation_UI\bin\Debug\net5.0\Automation_UI.pdb
+D:\VS2019\Automation_UI\Automation_UI\obj\Debug\net5.0\Automation_UI.dll
+D:\VS2019\Automation_UI\Automation_UI\obj\Debug\net5.0\ref\Automation_UI.dll
+D:\VS2019\Automation_UI\Automation_UI\obj\Debug\net5.0\Automation_UI.pdb
