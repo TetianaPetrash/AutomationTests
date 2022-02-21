@@ -1,0 +1,12 @@
+D:\VS2019\GitSeleniumTests\GitSeleniumTests\obj\Debug\net5.0\GitSeleniumTests.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS2019\GitSeleniumTests\GitSeleniumTests\obj\Debug\net5.0\GitSeleniumTests.AssemblyInfoInputs.cache
+D:\VS2019\GitSeleniumTests\GitSeleniumTests\obj\Debug\net5.0\GitSeleniumTests.AssemblyInfo.cs
+D:\VS2019\GitSeleniumTests\GitSeleniumTests\obj\Debug\net5.0\GitSeleniumTests.csproj.CoreCompileInputs.cache
+D:\VS2019\GitSeleniumTests\GitSeleniumTests\bin\Debug\net5.0\GitSeleniumTests.deps.json
+D:\VS2019\GitSeleniumTests\GitSeleniumTests\bin\Debug\net5.0\GitSeleniumTests.dll
+D:\VS2019\GitSeleniumTests\GitSeleniumTests\bin\Debug\net5.0\ref\GitSeleniumTests.dll
+D:\VS2019\GitSeleniumTests\GitSeleniumTests\bin\Debug\net5.0\GitSeleniumTests.pdb
+D:\VS2019\GitSeleniumTests\GitSeleniumTests\obj\Debug\net5.0\GitSeleniumTests.dll
+D:\VS2019\GitSeleniumTests\GitSeleniumTests\obj\Debug\net5.0\ref\GitSeleniumTests.dll
+D:\VS2019\GitSeleniumTests\GitSeleniumTests\obj\Debug\net5.0\GitSeleniumTests.pdb
+D:\VS2019\GitSeleniumTests\GitSeleniumTests\obj\Debug\net5.0\GitSeleniumTests.csproj.AssemblyReference.cache
